@@ -1,1 +1,3 @@
-export class TeXText {}
+export class TeXText {
+  constructor() {}
+}

@@ -1,1 +1,3 @@
-export class TextWidget {}
+export class TextWidget {
+  constructor() {}
+}
